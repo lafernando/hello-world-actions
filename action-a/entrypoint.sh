@@ -3,3 +3,4 @@
 pwd
 ls -la
 sh -c "echo $*"
+ballerina --version
